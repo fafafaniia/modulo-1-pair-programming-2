@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+color: rgb(0, 0, 0);
+background-color: aqua;
+padding: 10;
+height: 80px;
+position: sticky;
+top: 0%;
+z-index: 1;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.menu{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.enlace{
+    padding: 10px;
+    color: rgb(255, 10, 181);
+    text-decoration: none;
+}
+
+.Txispa{
+    width: 450px;
+    height: auto;
+}
+
+.Misifu{
+    width: auto;
+    height: 450px;
+}
+
+.Guille{
+    width: 450px;
+    height: auto;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
